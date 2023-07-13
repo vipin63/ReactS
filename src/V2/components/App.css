@@ -1,0 +1,13 @@
+.Product-Container{
+    height: 100px;
+    width:130px ;
+    padding: 18px;
+    background-color: aqua;
+    margin: 20px 0px;
+}
+.productList{
+    display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center; 
+}

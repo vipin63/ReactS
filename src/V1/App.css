@@ -17,3 +17,23 @@
   background-color: aqua;
   
 }
+.logo{
+  font-size: 22px;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-color: yellow;
+  color: black;
+  padding: 8px;
+}
+.Header{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.dark{
+  background-color: #282c34;
+}
+.warning{
+  background-color: orange;
+}

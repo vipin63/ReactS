@@ -1,6 +1,6 @@
 function Logo(){
     return (
-        <div>Logo here:</div>
+        <div className="logo">V</div>
 
     );
 }
